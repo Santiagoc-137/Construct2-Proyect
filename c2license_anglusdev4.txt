@@ -1,0 +1,9 @@
+﻿License type: PERSONAL
+Product: Construct 2
+Licensed to: Anglus Dev 4
+Email: samir@anglus.co
+Comment: 
+Timestamp: 1436637747
+Hash: BA848A2254D2CF2DB317F3F5C4B574B503392ACF178E6F
+
+This is a standard license, for independent use by the above named individual up to an associated use revenue of 5000 USD, or educational, charity or otherwise non-commercial use.  Use outside of these bounds is prohibited.
