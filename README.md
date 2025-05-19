@@ -1,42 +1,39 @@
-🧛‍♂️ Nightfall Warriors
-Nightfall Warriors es un juego de acción tipo auto-shooter, inspirado en Vampire Survivors, desarrollado en Construct 2. Enfréntate a hordas interminables de enemigos mientras sobrevives en la oscuridad creciente. ¡Elige tu guerrero, mejora tus habilidades y resiste hasta el amanecer!
+# 🧛‍♂️ Nightfall Warriors
 
-🎮 Características
-Estilo de juego tipo bullet heaven / auto battler
+**Nightfall Warriors** es un juego de acción tipo *auto-shooter*, inspirado en *Vampire Survivors*, desarrollado en **Construct 2**. Enfréntate a hordas interminables de enemigos mientras sobrevives en la oscuridad creciente. ¡Elige tu guerrero, mejora tus habilidades y resiste hasta el amanecer!
 
-Oleadas progresivas de enemigos
+## 🎮 Características
 
-Selección de personajes con diferentes habilidades
+* Estilo de juego tipo *bullet heaven* / *auto battler*
+* Oleadas progresivas de enemigos
+* Selección de personajes con diferentes habilidades
+* Sistema de mejoras y power-ups en tiempo real
+* Diseño retro y animaciones pixel art
+* Música envolvente y atmósfera oscura
 
-Sistema de mejoras y power-ups en tiempo real
+## 🛠️ Tecnologías utilizadas
 
-Diseño retro y animaciones pixel art
+* [Construct 2](https://www.scirra.com/construct2): Motor de desarrollo 2D basado en eventos
+* HTML5 para exportación y ejecución en navegadores
 
-Música envolvente y atmósfera oscura
+## 📦 Contenido del repositorio
 
-🛠️ Tecnologías utilizadas
-Construct 2: Motor de desarrollo 2D basado en eventos
-
-HTML5 para exportación y ejecución en navegadores
-
-📦 Contenido del repositorio
-mathematica
-Copiar
-Editar
+```
 📁 Assets/         → Recursos visuales y sonoros del juego  
 📁 Game/           → Proyecto fuente .capx de Construct 2  
 📁 Export/         → Versiones exportadas listas para jugar  
 📁 Docs/           → Documentación adicional  
 📄 README.md       → Este archivo  
-🚀 Cómo jugar
-Juega la versión exportada:
+```
 
-Abre la carpeta Export/ en tu navegador.
+## 🚀 Cómo jugar
 
-Haz clic en el archivo index.html para iniciar el juego.
+1. **Juega la versión exportada:**
 
-Desde Construct 2:
+   * Abre la carpeta `Export/` en tu navegador.
+   * Haz clic en el archivo `index.html` para iniciar el juego.
 
-Abre el archivo .capx ubicado en Game/ con Construct 2.
+2. **Desde Construct 2:**
 
-Ejecuta el juego desde el editor (Preview → Browser).
+   * Abre el archivo `.capx` ubicado en `Game/` con Construct 2.
+   * Ejecuta el juego desde el editor (Preview → Browser).
